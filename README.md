@@ -49,18 +49,8 @@ Importing the component:
 
 ```jsx
 import { Ingredients } from "./components/Ingredients";
-```
 
-### 3. Difference Between Default and Named Exports
-
-| Default Exports | Named Exports |
-|---|---|
-| Uses `export default`. | Uses `export` before the component or declaration. |
-| Does not require curly braces when importing. | Requires curly braces when importing. |
-| A file can have only one default export. | A file can have multiple named exports. |
-| The imported component can be given a different name. | The imported name must match the exported name, unless an alias is used. |
-
-### 4. How They Were Used in This Project
+### 3. How They Were Used in This Project
 
 The `App.jsx` file imports all five components and renders them inside the main `App` component.
 
