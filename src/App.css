@@ -42,6 +42,12 @@ section {
   border-radius: 8px;
 }
 
+.Ingredients-title {
+  color: #222;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
 footer {
   background-color: #333;
   color: white;

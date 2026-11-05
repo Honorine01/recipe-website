@@ -5,7 +5,7 @@ function RecipeCard() {
     <div className="recipe-card">
       <img
         className="recipe-image"
-        src="chicken.jpg"
+        src="/chicken.jpg"
         alt="Chicken fried rice"
       />
 

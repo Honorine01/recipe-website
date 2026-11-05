@@ -1,7 +1,7 @@
 export function Ingredients() {
   return (
     <section>
-      <h2>Ingredients</h2>
+      <h2 className="Ingredients-title">Ingredients</h2>
 
       <ul>
         <li>2 cups cooked rice</li>
